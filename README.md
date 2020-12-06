@@ -5,7 +5,7 @@
 - Regression and Natural Language Processing
 
 #### NYC Airbnb Data Analysis
-- Data Visulation, Data Cleaning and Data Exploration
+- Data Visualization, Data Cleaning and Data Exploration
 - Decision Tree and Regression Algorithm
 
 #### Mobile Apps Data Analysis
